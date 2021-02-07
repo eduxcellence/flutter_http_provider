@@ -1,5 +1,5 @@
 # flutter_http_provider
-### A new Flutter application based on ScopedModel with Http request.
+### A new Flutter application based on Provider with Http request.
 ## Make Reusable if you found
 
 ![Screenshot_20210206_110311](https://user-images.githubusercontent.com/33365906/107110163-b4db6a80-686b-11eb-9014-1fe47fc54135.jpg)
